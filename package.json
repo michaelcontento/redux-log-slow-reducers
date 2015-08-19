@@ -29,17 +29,13 @@
   "devDependencies": {
     "babel": "^5.8.21",
     "babel-core": "^5.8.22",
-    "babel-eslint": "^4.0.5",
-    "eslint": "^1.1.0",
-    "eslint-config-airbnb": "0.0.7"
-  },
-  "dependencies": {
-    "react-native": ">=0.8.0 || 0.9.0-rc",
-    "redux-actions": "^0.7.0",
-    "redux-middleware-oneshot": "0.0.x"
+    "babel-eslint": "^4.0.10",
+    "eslint": "^1.2.0",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "3.2.3"
   },
   "peerDependencies": {
-    "redux": "^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
+    "redux": ">= 1.0.x"
   },
   "bugs": {
     "url": "https://github.com/michaelcontento/redux-log-slow-reducers/issues"
