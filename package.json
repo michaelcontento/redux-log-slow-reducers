@@ -1,6 +1,6 @@
 {
   "name": "redux-log-slow-reducers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Warn about slow reducers used in your redux app.",
   "main": "lib/index.js",
   "scripts": {
