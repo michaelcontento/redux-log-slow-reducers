@@ -36,7 +36,7 @@ mrproper: clean
 lint: install
 	$(BIN)/eslint src
 
-ci: lint
+ci: lint build
 
 #
 # MAKEFILE
