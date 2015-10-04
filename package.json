@@ -4,7 +4,7 @@
   "description": "Warn about slow reducers used in your redux app.",
   "main": "lib/index.js",
   "scripts": {
-    "test": "make test",
+    "test": "make ci",
     "prepublish": "make build lint"
   },
   "repository": {
