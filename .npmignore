@@ -1,1 +1,9 @@
-src
+# keep the npm package as small as possible
+.babelrc
+.editorconfig
+.eslintrc
+.travis.yml
+Makefile
+
+# we ship lib/ after `make build`
+src/
