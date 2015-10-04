@@ -5,6 +5,7 @@
 [![npm version](https://img.shields.io/npm/v/redux-log-slow-reducers.svg?style=flat-square)](https://www.npmjs.com/package/redux-log-slow-reducers)
 [![npm downloads](https://img.shields.io/npm/dm/redux-log-slow-reducers.svg?style=flat-square)](https://www.npmjs.com/package/redux-log-slow-reducers)
 [![Code Climate](https://codeclimate.com/github/michaelcontento/redux-log-slow-reducers/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-log-slow-reducers)
+[![build](https://travis-ci.org/michaelcontento/redux-log-slow-reducers.svg)](https://travis-ci.org/michaelcontento/redux-log-slow-reducers)
 
 Warn about slow reducers in your [Redux][] app.
 
