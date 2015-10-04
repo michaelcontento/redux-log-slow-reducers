@@ -24,7 +24,6 @@ build: clean install
 
 clean:
 	rm -rf ./lib
-	rm -rf ./engines
 
 mrproper: clean
 	rm -rf ./node_modules
